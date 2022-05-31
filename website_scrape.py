@@ -15,7 +15,7 @@ try:
 
    
 
-# except Exception as e:
-#   print(e)
+except Exception as e:
+  print(e)
 
 #   # <p class=" css-1p9ibgf" data-font-weight="semibold"><a href="/biz_redir?url
